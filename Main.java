@@ -45,7 +45,7 @@ public class Main {
 
         // Из списока сорудников с помощью стрима создать Map<String, Double> с отделами и средней зарплатой внутри отдела
 
-        Map<String, Double> map1 = employees.stream()
+        
     }
 
 }
